@@ -1,0 +1,10 @@
+= DESCRIPTION:
+
+Installs great mercurial-server http://dev.lshift.net/paul/mercurial-server/docbook.html on Ubuntu.
+
+= REQUIREMENTS:
+
+= ATTRIBUTES:
+
+= USAGE:
+
